@@ -2,7 +2,9 @@
   "categories": [
     {
       "name_category": "History",
-      "position_ofQuest": "blablabla",
+      "position_ofQuest": "blablabla"
+      },
+    {
       "name_category": "Anatomy",
       "position_ofQuest": "blablabla"
       }
