@@ -1,8 +1,8 @@
 {
-  "categories": [
+  "items": [
     {
-      "name_category": "Elementary test",
-      "Url_category": "https://raw.githubusercontent.com/enitajm/QuizGame/master/elementary_test"
+      "name_item": "Elementary test",
+      "Url_item": "https://raw.githubusercontent.com/enitajm/QuizGame/master/elementary_test"
     }
     ]
     }
