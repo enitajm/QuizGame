@@ -1,12 +1,12 @@
 {
-  "categories": [
+  "items": [
     {
-      "name_category": "basic education",
-      "Url_category": "blablabla"
+      "name_item": "basic education",
+      "Url_item": "blablabla"
       },
     {
-      "name_category": "Anatomy",
-      "Url_category": "https://raw.githubusercontent.com/enitajm/QuizGame/master/anatomyCategory"
+      "name_item": "Anatomy",
+      "Url_item": "https://raw.githubusercontent.com/enitajm/QuizGame/master/anatomyCategory"
       }
     ]
 }
