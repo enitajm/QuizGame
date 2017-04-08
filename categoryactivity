@@ -7,14 +7,6 @@
     {
       "name_category": "Anatomy",
       "Url_category": "https://raw.githubusercontent.com/enitajm/QuizGame/master/anatomy_test"
-      },
-    {
-      "name_category": "Geography",
-      "Url_category": "blablabla"
-      },
-    {
-      "name_category": "Math",
-      "Url_category": "blablabla"
       }
     ]
 }
