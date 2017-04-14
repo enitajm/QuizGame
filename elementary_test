@@ -87,17 +87,18 @@
       "answer4": "null"
     },
     {
-      "id_quest": "6",
+    "id_quest": "6",
       "position_ofQuest": "6",
       "position_ofCorAns": "0",
       "type_quest" : "txt_txt",
-      "text_quest": "Ake je hlavne mesto Jordánska",
+      "text_quest": "Z akých krvných elementov sa skladá krv?",
       "path_toFile":"null",
       "time_onAns":"20",
-      "answer1": "Amman",
-      "answer2": "Bratislava",
-      "answer3": "Oslo",
-      "answer4": "Reykjavik"
+      "answer1": "erytrocyty, trombocyty, leukocyty",
+      "answer2": "červené farbivo, červené krvinky, hemoglobín",
+      "answer3": "krvné doštičky, biele krvinky, červené krvinky, voda",
+      "answer4": "voda, červené farbivo"
+      
     }
   ]
 }
